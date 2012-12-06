@@ -1,5 +1,3 @@
-$LOAD_PATH << File.dirname(__FILE__)
-
 require 'PARSER_SET'
 require 'AsmProcessor'
 
